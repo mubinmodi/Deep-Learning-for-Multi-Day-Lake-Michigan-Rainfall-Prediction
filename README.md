@@ -1,4 +1,5 @@
 # Deep-Learning-for-Multi-Day-Lake-Michigan-Rainfall-Prediction
+### Technologies- Tensorflow, Numpy, Pandas
 - Designed and implemented a Hybrid deep learning model leveraging ConvLSTM and LSTM architectures to predict multi-day
 rainfall events over Lake Michigan.
 - Pre-processed and refined satellite imagery and meteorological data for the research project, optimizing model input through
